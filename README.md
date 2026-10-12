@@ -3,23 +3,20 @@
 </div>
 
 <div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td align="center" width="30%">
-        <img src="assets/profile.jpg" width="160" style="border-radius: 50%; border: 3px solid #00F2FE; box-shadow: 0px 0px 20px rgba(0, 242, 254, 0.5);" alt="Saad Ullah"/>
-      </td>
-      <td align="left" width="70%">
-        <h2>👋 Hello, I'm Saad Ullah</h2>
-        <p><b>📱 Flutter & Mobile Application Developer</b></p>
-        <p>Crafting modern, high-performance, and pixel-perfect cross-platform mobile experiences with <b>Flutter, Dart, GetX, & Firebase</b>.</p>
-        <p>
-          <a href="https://portfolio-saad-virid.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Live_Demo-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
-          <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/✉️_Email-Get_in_Touch-FF5722?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-          <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <h2>📱 Flutter & Mobile Application Developer</h2>
+  <p>Building modern, scalable, and intuitive mobile experiences with <b>Flutter, Dart, GetX & Firebase</b>.</p>
+
+  <p>
+    <a href="https://portfolio-saad-virid.vercel.app/">
+      <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Demo-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/✉️_Email-Get_in_Touch-FF5722?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://linkedin.com/in/your-linkedin">
+      <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </p>
 </div>
 
 ---
