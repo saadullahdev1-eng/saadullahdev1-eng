@@ -69,9 +69,9 @@
 
 | Project | Tech Stack | Key Highlights |
 | :--- | :--- | :--- |
-| **🛒 Mobile E-Commerce App** | `Flutter` `GetX` `Firebase` | Reactive state management, secure payment gateway integrations, and real-time order tracking. |
-| **💬 Real-time Chat App** | `Flutter` `Firestore` `Cloud Messaging` | Instant messaging infrastructure, push notifications, and robust user authentication. |
-| **📝 Task & Productivity Suite** | `Flutter` `Local Storage` `GetX` | Offline-first functionality, clean intuitive UI, and streamlined task-management workflows. |
+| **🩺 Medsol** | `Flutter` `Dart` `GetX` `REST APIs` `Firebase` | Modern healthcare mobile application engineered to streamline medical workflows, patient-doctor interactions, and exam preparation with clean UI/UX and GetX state management. |
+| **🌾 Khaiyal Fertilizer Management** | `Flutter` `Dart` `GetX` `PDF Generation` `CRUD Operations` `REST APIs` | Specialized business management application for agricultural and chemical distribution with complete sales/purchase tracking, inventory alerts, ledgers, and instant PDF invoice generation. |
+| **👗 Boutique - Fashion E-commerce** | `Flutter` `Dart` `GetX` | Dedicated ladies fashion ordering platform supporting multi-category catalog navigation for Maxi, Lehenga, Lawn suits, Cotton suits, and bespoke custom design orders. |
 
 ---
 
