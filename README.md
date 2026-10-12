@@ -1,95 +1,102 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=200&section=header&text=Hi%20there,%20I'm%20Saad%20Ullah%20👋&fontSize=42&fontColor=fff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,30,40&height=220&section=header&text=Saad%20Ullah&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 </div>
 
 <div align="center">
-  <h3>📱 Flutter & Mobile Application Developer</h3>
-  <p>Building modern, scalable, and intuitive mobile experiences with <b>Flutter, Dart, GetX & Firebase</b>.</p>
-
-  <a href="https://portfolio-saad-virid.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-saad--virid.vercel.app-blue?style=for-the-badge" alt="Portfolio"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/✉️_Email-Get_in_Touch-red?style=for-the-badge" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <table border="0" width="100%">
+    <tr>
+      <td align="center" width="30%">
+        <img src="assets/profile.jpg" width="160" style="border-radius: 50%; border: 3px solid #00F2FE; box-shadow: 0px 0px 20px rgba(0, 242, 254, 0.5);" alt="Saad Ullah"/>
+      </td>
+      <td align="left" width="70%">
+        <h2>👋 Hello, I'm Saad Ullah</h2>
+        <p><b>📱 Flutter & Mobile Application Developer</b></p>
+        <p>Crafting modern, high-performance, and pixel-perfect cross-platform mobile experiences with <b>Flutter, Dart, GetX, & Firebase</b>.</p>
+        <p>
+          <a href="https://portfolio-saad-virid.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Live_Demo-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
+          <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/✉️_Email-Get_in_Touch-FF5722?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+          <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🚀 **Specialist in Cross-Platform Mobile Apps:** Crafting sleek, production-ready apps for **iOS & Android** from a single codebase.
-- ⚡ **State Management & Architecture:** Proficient in **GetX**, reactive state handling, and modular app design.
-- ☁️ **Backend & Cloud Integration:** Experienced in **Firebase** (Auth, Firestore, Cloud Functions, Push Notifications) and **REST API** consumption.
-- 🎨 **Pixel-Perfect UI/UX:** Dedicated to crafting fluid animations, responsive layouts, and modern interfaces.
-- 💬 Ask me about: **Flutter, Dart, Mobile App Optimization, and State Management**.
+- 🚀 **Specialist in Cross-Platform Mobile Apps:** Building sleek, production-ready apps for **iOS & Android** from a single, optimized codebase.
+- ⚡ **Advanced State Management & Architecture:** Proficient in **GetX**, reactive state handling, clean architecture, and modular app design.
+- ☁️ **Cloud & Backend Integration:** Experienced with **Firebase** (Auth, Firestore, Cloud Functions, Push Notifications) and robust **REST API** architectures.
+- 🎨 **Pixel-Perfect UI/UX Engineering:** Dedicated to smooth 60/120fps animations, adaptive responsive layouts, and elegant user interfaces.
+- 💬 **Let's Talk About:** Flutter ecosystems, mobile app optimization, and scalable state management strategies.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Ecosystem
 
-#### **Mobile & Languages**
+<div align="center">
+
+#### **Core Technologies & Languages**
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
 #### **State Management & Backend**
 <p>
-  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Cloud_Firestore-FFA611?style=for-the-badge&logo=firebase&logoColor=white" alt="Firestore" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/GetX-%238A2BE2.svg?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Firestore-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST_APIs-%23005571.svg?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 #### **Development Tools & Version Control**
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+
+</div>
 
 ---
 
 ### 📌 Featured Projects
 
-| Project | Tech Stack | Highlights |
+| Project | Tech Stack | Key Highlights |
 | :--- | :--- | :--- |
-| **Mobile E-Commerce App** | `Flutter` `GetX` `Firebase` | State management using GetX, payment integration, and real-time order tracking. |
-| **Social / Chat App** | `Flutter` `Firestore` `Cloud Messaging` | Real-time messaging, push notifications, and user authentication. |
-| **Task / Productivity App** | `Flutter` `Local Storage` `GetX` | Offline-first functionality, clean UI, and intuitive task management workflows. |
-
-*(💡 Replace or update these with links to your own pinned repositories)*
+| **🛒 Mobile E-Commerce App** | `Flutter` `GetX` `Firebase` | Reactive state management, secure payment gateway integrations, and real-time order tracking. |
+| **💬 Real-time Chat App** | `Flutter` `Firestore` `Cloud Messaging` | Instant messaging infrastructure, push notifications, and robust user authentication. |
+| **📝 Task & Productivity Suite** | `Flutter` `Local Storage` `GetX` | Offline-first functionality, clean intuitive UI, and streamlined task-management workflows. |
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 ---
 
 ### 📬 Connect With Me
 
-- 🌐 **Portfolio:** [portfolio-saad-virid.vercel.app](https://portfolio-saad-virid.vercel.app/)
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
-- 📧 **Email:** `your-email@gmail.com`
-
 <div align="center">
-  <sub>Designed with ❤️ by Saad Ullah</sub>
+  <a href="https://portfolio-saad-virid.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00F2FE?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio"/></a> &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;&nbsp;
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
+
+<br/>
+<div align="center">
+  <sub>Designed with ❤️ by <b>Saad Ullah</b> • Powered by Flutter & Passion</sub>
 </div>
